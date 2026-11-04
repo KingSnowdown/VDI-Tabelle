@@ -1,0 +1,8 @@
+{
+  "name": "VDI 4640 Blatt 1 — Geologische Wärmeleitfähigkeitsmatrix",
+  "description": "Interaktiver Vergleich und normgerechte Datenabfrage der Wärmeleitfähigkeit (λ in W/m·K) und Materialkennwerte nach VDI 4640 Blatt 1 (2010-06).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
